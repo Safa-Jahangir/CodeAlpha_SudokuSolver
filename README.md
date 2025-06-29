@@ -45,11 +45,11 @@ Make sure you have a C++ compiler like `g++` installed.
 g++ sudoku_solver.cpp -o sudoku
 ./sudoku
 
-📁 Files
+## 📁 Files
 sudoku_solver.cpp – C++ source file with the full logic
 README.md – this file
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Safa Jahangir
 GitHub: @Safa-Jahangir
 
