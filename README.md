@@ -39,7 +39,7 @@ If no number fits, it **backtracks** and tries the next possibility.
 
 ## 📁 Files
 sudoku_solver.cpp – C++ source file with the full logic
-README.md – this file
+<br>README.md – this file
 
 ## 🛠 How to Compile and Run
 
