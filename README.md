@@ -4,6 +4,7 @@ This is a simple C++ console program that solves a standard 9x9 Sudoku puzzle us
 
 ## 🧑‍💻 Author
 Safa Jahangir
+<br>
 GitHub: @Safa-Jahangir
 
 ## ✅ Features
