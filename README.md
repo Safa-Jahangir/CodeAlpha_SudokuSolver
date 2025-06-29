@@ -2,7 +2,9 @@
 
 This is a simple C++ console program that solves a standard 9x9 Sudoku puzzle using **backtracking**.
 
----
+## 🧑‍💻 Author
+Safa Jahangir
+GitHub: @Safa-Jahangir
 
 ## ✅ Features
 
@@ -11,7 +13,7 @@ This is a simple C++ console program that solves a standard 9x9 Sudoku puzzle us
 - No external libraries used (`<vector>`, etc.)
 - Output is printed to the console
 
----
+
 
 ## 🔢 Example Input (Hardcoded in Code)
 
@@ -34,6 +36,9 @@ The program checks for empty spaces and recursively fills them with numbers from
 
 If no number fits, it **backtracks** and tries the next possibility.
 
+## 📁 Files
+sudoku_solver.cpp – C++ source file with the full logic
+README.md – this file
 
 ## 🛠 How to Compile and Run
 
@@ -45,11 +50,7 @@ Make sure you have a C++ compiler like `g++` installed.
 g++ sudoku_solver.cpp -o sudoku
 ./sudoku
 
-## 📁 Files
-sudoku_solver.cpp – C++ source file with the full logic
-README.md – this file
 
-## 🧑‍💻 Author
-Safa Jahangir
-GitHub: @Safa-Jahangir
+
+
 
